@@ -1,2 +1,3 @@
 TgCrypto
+pyrogram
 youtube-dl==2021.04.01
